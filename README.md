@@ -4,8 +4,8 @@
 
 ---
 ## Education 🎓
-- Bachelors in Finaance, Khazar University
-- Bachelors in Computer Enginering, Vilnius Technical Gedeminas University
+- Bachelor in Finaance, Khazar University
+- Bachelor in Computer Enginering, Vilnius Technical Gedeminas University
 ---
 ## 🛠️ Tech Toolbox
 - **Languages:** Python, SQL, R  
