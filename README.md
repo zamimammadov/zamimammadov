@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Zamin Mammadov
 
-📊 **Data Analyst & Aspiring Data Scientist**  
+📊 **Data Analyst & Data Scientist**  
 🔍 Passionate about data analysis, machine learning & turning raw data into insights  
 
 ---
