@@ -4,6 +4,11 @@
 🔍 Passionate about data analysis, machine learning & turning raw data into insights  
 
 ---
+## Education 🎓
+Bachelors in Finaance, Khazar University
+Bachelors in Computer Enginering, Vilnius Technical Gedeminas University
+
+---
 
 ## 🚀 About Me
 - 🎓 Learning & working on Data Analysis and Data Science projects  
