@@ -11,10 +11,8 @@ Bachelors in Computer Enginering, Vilnius Technical Gedeminas University
 ---
 
 ## 🚀 About Me
-- 🎓 Learning & working on Data Analysis and Data Science projects  
-- 💻 Skilled in **Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, Scikit-learn**  
-- 📈 Interested in **data visualization, predictive modeling, and real-world analytics**  
-- 🌱 Always exploring new tools & techniques in the data field  
+Computer engineering student aspiring to become a data analyst. I am focused on developing strong skills in data analysis, visualization, and problem-solving.
+
 
 ---
 
