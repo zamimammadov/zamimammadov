@@ -1,4 +1,3 @@
-##zamimammadov
 # 👋 Hello, I'm Zamin Mammadov
 
 📊 **Data Analyst & Aspiring Data Scientist**  
@@ -23,7 +22,7 @@
 ---
 
 ## 📫 How to reach me
-- 🌐 LinkedIn: https://github.com/zamimammadov 
-- 📧 Email: https://www.linkedin.com/in/zamin-memmedov-227781268  
+- 🌐 LinkedIn: https://www.linkedin.com/in/zamin-memmedov-227781268 
+- 📧 Email: memmeodvzamin1234@gmail.com  
 
 
