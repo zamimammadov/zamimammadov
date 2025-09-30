@@ -1,5 +1,5 @@
 # zaminmammadov
-# 👋 Hello, I'm [Adın]  
+# 👋 Hello, I'm Zamin Mammadov
 
 📊 **Data Analyst & Aspiring Data Scientist**  
 🔍 Passionate about data analysis, machine learning & turning raw data into insights  
@@ -23,8 +23,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical)
+![GitHub stats](https://github.com/zamimammadov)  
+![Top Languages](https://www.linkedin.com/in/zamin-memmedov-227781268)
 
 ---
 
