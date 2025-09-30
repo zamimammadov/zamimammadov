@@ -22,15 +22,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github.com/zamimammadov)  
-![Top Languages](https://www.linkedin.com/in/zamin-memmedov-227781268)
-
----
-
 ## 📫 How to reach me
 - 🌐 LinkedIn: https://github.com/zamimammadov 
 - 📧 Email: https://www.linkedin.com/in/zamin-memmedov-227781268  
 
----
-✨ *"Data is the new oil, and I love refining it into knowledge."* ✨
+
