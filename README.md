@@ -1,4 +1,4 @@
-
+#zamimammadov
 # 👋 Hello, I'm Zamin Mammadov
 
 📊 **Data Analyst & Aspiring Data Scientist**  
