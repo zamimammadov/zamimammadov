@@ -1,19 +1,15 @@
 # 👋 Hello, I'm Zamin Mammadov
 
 📊 **Data Analyst & Data Scientist**  
-🔍 Passionate about data analysis, machine learning & turning raw data into insights  
-
----
-## Education 🎓
-Bachelors in Finaance, Khazar University
-Bachelors in Computer Enginering, Vilnius Technical Gedeminas University
-
----
 
 ## 🚀 About Me
 Computer engineering student aspiring to become a data analyst. I am focused on developing strong skills in data analysis, visualization, and problem-solving.
 
-
+---
+## Education 🎓
+- Bachelors in Finaance, Khazar University
+- Bachelors in Computer Enginering, Vilnius Technical Gedeminas University
+- 
 ---
 
 ## 🛠️ Tech Toolbox
