@@ -9,7 +9,7 @@ Computer engineering student aspiring to become a data analyst. I am focused on 
 ## Education 🎓
 - Bachelors in Finaance, Khazar University
 - Bachelors in Computer Enginering, Vilnius Technical Gedeminas University
-- 
+
 ---
 
 ## 🛠️ Tech Toolbox
