@@ -8,9 +8,9 @@
 - Bachelor in Finaance, Khazar University
 ---
 ## 🛠️ Tech Toolbox
-- **Languages:** Python, SQL, R  
+- **Languages:** Python, SQL
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn  
-- **Tools:** Jupyter Notebook, Excel, Power BI, Git  
+- **Tools:** Jupyter Notebook, Excel, Power BI, Git, Tableau
 - **Areas:** Data Cleaning, Data Visualization, Machine Learning  
 ---
 ## 📫 How to reach me
