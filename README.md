@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Zamin Mammadov
 
-📊 **Data Analyst & Data Scientist**  
 
 ## Education 🎓
 - Bachelor in Computer Enginering, Vilnius Technical Gedeminas University
 - Bachelor in Finaance, Khazar University
+- Bachelor in Data Science, Erlangen-Nurenberg University
 
 ## 🛠️ Tech Toolbox
 - **Languages:** Python, SQL
