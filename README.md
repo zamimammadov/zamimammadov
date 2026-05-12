@@ -1,4 +1,4 @@
-#  Hello, I'm Zamin Mammadov
+## Hello, I'm Zamin Mammadov
 
 
 ## 🎓 Education 
