@@ -2,8 +2,8 @@
 
 
 ## 🎓 Education 
-- Bachelor in Computer Enginering, Vilnius Technical Gedeminas University
 - Bachelor in Finaance, Khazar University
+- Bachelor in Computer Enginering, Vilnius Technical Gedeminas University
 - Bachelor in Data Science, Erlangen-Nurenberg University
 
 ## 🛠️ Tech Toolbox
