@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Zamin Mammadov
+#  Hello, I'm Zamin Mammadov
 
 
-## Education 🎓
+## 🎓 Education 
 - Bachelor in Computer Enginering, Vilnius Technical Gedeminas University
 - Bachelor in Finaance, Khazar University
 - Bachelor in Data Science, Erlangen-Nurenberg University
@@ -13,7 +13,7 @@
 - **Areas:** Data Cleaning, Data Visualization, Machine Learning  
 
 ## 📫 How to reach me
-- 🌐 LinkedIn: https://www.linkedin.com/in/zamin-memmedov-227781268 
-- 📧 Email: memmeodvzamin1234@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/zamin-memmedov-227781268 
+- Email: memmeodvzamin1234@gmail.com  
 
 
