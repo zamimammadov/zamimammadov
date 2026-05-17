@@ -7,7 +7,7 @@
 - Bachelor in Data Science, Erlangen-Nurenberg University
 
 ## 🛠️ Tech Toolbox
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, C++
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn  
 - **Tools:** Jupyter Notebook, Excel, Power BI, Git, Tableau
 - **Areas:** Data Cleaning, Data Visualization, Machine Learning  
