@@ -1,6 +1,6 @@
 # Zamin Mammadov
 
-I'm a Computer Engineering student at VILNIUS TECH in Vilnius, Lithuania, looking for a junior data engineering role. I work with Python and SQL to build reporting datasets and trace unexpected results back to their source.
+I'm a Computer Engineering student at VILNIUS TECH in Vilnius, Lithuania. I work with Python and SQL to build reporting datasets and trace unexpected results back to their source.
 
 ## Selected projects
 
